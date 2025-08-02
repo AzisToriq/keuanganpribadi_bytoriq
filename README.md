@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-  </a>
-</p>
+<img width="1562" height="901" alt="image" src="https://github.com/user-attachments/assets/3196629b-af00-4110-a6f0-4999cb1abc33" />
+<img width="1395" height="901" alt="image" src="https://github.com/user-attachments/assets/b53ab4b5-a2a4-4349-a175-b12f74da99f5" />
+
 
 # 📊 Aplikasi Keuangan Pribadi - Laravel
 
